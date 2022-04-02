@@ -1,0 +1,108 @@
+#about{
+    background-color:#000000 ;
+    color: #00ff73;
+    text-align: center;
+}
+
+
+.about{
+    padding: 100px 20%;
+    font-size:1em ;
+    font-family: 'Manrope', sans-serif;
+    line-height: 1.5;
+}
+img{
+    margin-top: 100px;
+    width: 200px;
+}
+p{
+    color: grey;
+    text-align: center;
+}
+
+#projects{
+    text-align: center;
+    background-color: grey;
+    color:white ;
+    margin: 2%;
+}
+.carousel-item{
+    padding: 5% 15% 10% 15%;
+    font-family: 'Manrope', sans-serif;
+    
+}
+.title{
+    color: white;
+    padding-top: 20px;
+
+}
+#education{
+    text-align: center;
+    margin: 60px;
+}
+hr{
+    border:dotted rgb(207, 207, 207) 8px;
+    border-bottom: none;
+    margin: 0 auto;
+    width: 4%;
+}
+#EA{
+    text-align: center;
+    margin: 60px;
+}
+#courses{
+    text-align: center;
+    margin: 60px;
+}
+#about h1{
+    margin:30px;
+}
+#about h3{
+    margin-top:-80px;
+}
+.cards{
+    margin: 0 10%;
+}
+.card{
+    height:400px;
+}
+.download{
+    text-align: center;
+    margin:30px;
+}
+button{
+    margin:20px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+button a:hover{
+    text-decoration: none;
+    color: white;
+}
+#footer{
+    background-color: #000000;
+    padding: 5%;
+    
+}
+
+.ft{
+    text-align: center;
+    color: #00ff73;
+}
+.ft a{
+    margin: 2%;
+    color: #00ff73;
+    font-size: 1.5rem;
+}
+.ft p{
+    margin: 2%;
+    color: #00ff73;
+}
+#about a:hover{
+    color: #00ff73;
+}
+#courses{
+    margin: 2% auto;
+}
